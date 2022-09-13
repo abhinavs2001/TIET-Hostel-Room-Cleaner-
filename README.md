@@ -15,4 +15,31 @@ Html Css Javascript Php MySQL database.
 It has several features like login system, requests portal (put a request forroom cleaning) , admin portal (add housekeeper, manage  requests), dashboard (see status of rooms cleaned) feedback page etc.
 
  All the source code in present in this repository.
+ 
+ ### Frontend Screens - User level
+![u1 - Housekeeper Web App](1.png)
+
+![u1 - Housekeeper Web App](2.png)
+
+![u1 - Housekeeper Web App](3.png)
+
+![u1 - Housekeeper Web App](4.png)
+
+![u1 - Housekeeper Web App](5.png)
+
+--------------
+
+### Frontend Screens - Admin level
+
+![u1 - Housekeeper Web App](6.png)
+
+![u1 - Housekeeper Web App](7.png)
+
+![u1 - Housekeeper Web App](8.png)
+
+![u1 - Housekeeper Web App](9.png)
+
+![u1 - Housekeeper Web App](10.png)
+
+------------------------
 
