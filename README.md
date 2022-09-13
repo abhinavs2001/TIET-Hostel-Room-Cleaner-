@@ -17,12 +17,24 @@ It has several features like login system, requests portal (put a request forroo
  All the source code in present in this repository.
  
  ### Frontend Screenshots
- ![s1](https://user-images.githubusercontent.com/79807722/189840013-86a190d1-7abb-41f7-ad7c-9e9c27409c17.PNG)
+ ![s1](https://user-images.githubusercontent.com/79807722/189840013-86a190d1-7abb-41f7-ad7c-9e9c27409c17.PNG)  
+ 
+ 
  ![2](https://user-images.githubusercontent.com/79807722/189840467-dae89e93-0187-455b-82ab-9b95c9f4d700.png)
+ 
+ 
  ![3](https://user-images.githubusercontent.com/79807722/189840549-597ba036-fffb-4a47-8d85-41ed42c6e559.png)
+ 
+ 
  ![4](https://user-images.githubusercontent.com/79807722/189840607-37f2b1bf-8564-40db-ad3f-3069503a102c.png)
+ 
+ 
  ![5](https://user-images.githubusercontent.com/79807722/189840756-64f5cf33-617f-4eb7-95fd-9237583c2d0d.png)
+ 
+ 
  ![7](https://user-images.githubusercontent.com/79807722/189840839-646265b1-ee43-42d5-aac7-6783873b6115.png)
+ 
+ 
 ![8](https://user-images.githubusercontent.com/79807722/189840910-e0e5285c-5138-488f-b4db-871b7e7ae1b5.png)
 
 
