@@ -16,8 +16,7 @@ It has several features like login system, requests portal (put a request forroo
 
  All the source code in present in this repository.
  
- ### Frontend Screens - User level
- ![Alt text](C:\Users\HP\Desktop "s1.png")
+ ### Frontend Screenshots
+ ![s1](https://user-images.githubusercontent.com/79807722/189840013-86a190d1-7abb-41f7-ad7c-9e9c27409c17.PNG)
 
-------------------------
 
