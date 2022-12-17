@@ -16,6 +16,7 @@ It has several features like login system, requests portal (put a request forroo
 
 ## METHODOLOGY
 Flowchart diagram for the working of the project
+![table](https://user-images.githubusercontent.com/79807722/208253523-1f9198ca-534e-4e8c-92e3-cbf13637740f.png)
 
 
  All the source code in present in this repository.
