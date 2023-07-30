@@ -11,6 +11,10 @@ Designed an application which hostel students can use to get their rooms cleaned
 ## Tech stack Used
 Html Css Javascript Php MySQL database.
 
+ 
+ ## Live Link
+ http://room_cleaner.surge.sh/
+
 
 It has several features like login system, requests portal (put a request forroom cleaning) , admin portal (add housekeeper, manage  requests), dashboard (see status of rooms cleaned) feedback page etc.
 
@@ -20,9 +24,7 @@ Flowchart diagram for the working of the project
 
 
  All the source code in present in this repository.
- 
- ## Live Link
- http://room_cleaner.surge.sh/
+
  
  ### Frontend Screenshots
  ![s1](https://user-images.githubusercontent.com/79807722/189840013-86a190d1-7abb-41f7-ad7c-9e9c27409c17.PNG)  
